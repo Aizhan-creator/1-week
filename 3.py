@@ -4,5 +4,5 @@ def myfunc():  #функция
     print(x+y)
 myfunc()
 
-# ответ: Sunday
+# ответ: Sun+day
 

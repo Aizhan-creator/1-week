@@ -1,2 +1,1 @@
-# git-first
-hi
+# Git and Gith
