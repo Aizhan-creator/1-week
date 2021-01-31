@@ -1,2 +1,2 @@
 b="Hello world"
-print(b(-5:-2))
+print(b[-5:-2])
